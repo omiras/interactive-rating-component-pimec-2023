@@ -1,5 +1,6 @@
 # Reto JavaScript Pair Programming PIMEC 2023
 
+[URL del challenge](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
 [Demo de la app](https://omiras.github.io/interactive-rating-component-main/)
 
 Os adjunto la demo para que veaís fácilmente como funciona la app. No inspeccioneis el código, ni siquiera por que hay _algo_ que no os sale. Prefiero que me llaméis a mi.
